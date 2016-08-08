@@ -36,7 +36,8 @@
       "uuid": "npm:uuid@~2.0.1",
       "kurento-browser-extensions": "npm:kurento-browser-extensions@*",
       "sdp-translator": "npm:sdp-translator@^0.1.15",
-      "hark": "npm:hark@1.1.3"
+      "hark": "npm:hark@1.1.3",
+      "events": "npm:events@^1.1.1"
     }
   },
   "devDependencies": {
@@ -73,8 +74,8 @@
     "ua-parser-js": "^0.7.7",
     "uuid": "~2.0.1",
     "hark": "1.1.3"
-  },
-  "optionalDependencies": {
-    "kurento-browser-extensions": "*"
+    "kurento-browser-extensions": "*",
+    "sdp-translator": "npm:sdp-translator@^0.1.15",
+    "events": "^1.1.1"
   }
 }
