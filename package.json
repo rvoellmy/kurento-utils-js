@@ -34,6 +34,7 @@
       "merge": "npm:merge@^1.2.0",
       "ua-parser-js": "npm:ua-parser-js@^0.7.7",
       "uuid": "npm:uuid@~2.0.1",
+      "kurento-browser-extensions": "npm:kurento-browser-extensions@*",
       "hark": "npm:hark@1.1.3"
     }
   },
