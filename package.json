@@ -35,7 +35,7 @@
       "ua-parser-js": "npm:ua-parser-js@^0.7.7",
       "uuid": "npm:uuid@~2.0.1",
       "kurento-browser-extensions": "npm:kurento-browser-extensions@*",
-      "sdp-translator": "npm:sdp-translator^0.1.15",
+      "sdp-translator": "npm:sdp-translator@^0.1.15",
       "hark": "npm:hark@1.1.3"
     }
   },
